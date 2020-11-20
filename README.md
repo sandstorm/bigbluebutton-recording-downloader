@@ -14,8 +14,8 @@ Currently downloads public recordings of BBB meetings and creates up to 3 video 
 
 - run `./download.sh -H` for more help
 - running the script will ...
-    - this will create a `tmp` folder that will be removed when finished
-    - this will create a `downloads` folder with subfolders for each meeting
+    - create a `tmp` folder that will be removed when finished
+    - create a `downloads` folder with subfolders for each meeting
 
 ## BBB Internal Meeting Id
 
